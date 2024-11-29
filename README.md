@@ -1,2 +1,1 @@
-# .github
-Welcome to HeySalad®
+# Welcome to HeySalad®
